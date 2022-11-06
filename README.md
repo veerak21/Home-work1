@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Refactor Starter Code
 # Project Title: HTML CSS & Git Challenge: Code Refactor
 ## Project Description:
@@ -13,3 +14,5 @@ improving structure to any given website.
 ## Credits:
 Many thanks to the following developer for providing all the relevant rescources.
 https://github.com/Xandromus
+=======
+>>>>>>> d9fe8a2b5f1d9771e61c92d5ed8a12ebc86e5cc8
