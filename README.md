@@ -1,14 +1,16 @@
-# Project Title: HTML CSS & Git Challenge: Code Refactor
+# Project Title: HTML CSS and Git Challenge: Code Refactoring
 ## Project Description:
-This project was to improve the accessability to the code created by the previous developers also refactoring the code to represent a logical flow. I did this by improving the semantic text allowing other developers who undertake the project to better understand where crucial elements relating to the project are placed and a making it easy for other developers to follow a rational flow.
+This project intends to improve 
+    a) accessability to previous developers' codes and 
+    b) refactor the code for a logical flow. 
+I improved the semantic text to 
+    a) allow other project developers to better understand the placement of the project-related elements and 
+    b) to follow a rational flow.  
+This was designed using HTML, CSS and Github.
 ## How to Install and Run the Project:
-This project can be pulled from the repository via the git hub website
-by following the link
-https://github.com/coding-boot-camp/urban-octo-telegram 
-and can be cloned to your personal repo.
+This project can be pull from the repository via the git hub website by following the link:
+https://github.com/coding-boot-camp/urban-octo-telegram and can be cloned into your personal repo.
 ## How to Use the Project:
-Using this project will give new developers an idea of the fundamnetal values in using semantic HTML elements and logical flow there-by increasing productivity and
-improving structure to any given website.
+This project can be used by the new developers to understand the fundamnetal values in the semantic HTML elements and logical flow, there-by increasing productivity and improving the structure of the websites.
 ## Credits:
-Many thanks to the following developer for providing all the relevant rescources.
-https://github.com/Xandromus
+Thanks to Xander Rapstine (https://github.com/Xandromus) for providing the rescources for this project.
