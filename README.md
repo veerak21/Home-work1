@@ -1,7 +1,7 @@
 # Project Title: HTML CSS and Git Challenge: Code Refactoring
 ## Project Description:
 This project intends to improve 
-    a) accessability to previous developers' codes and 
+<b>   a) </b> accessability to previous developers' codes and 
     b) refactor the code for a logical flow. 
 I improved the semantic text to 
     a) allow other project developers to better understand the placement of the project-related elements and 
