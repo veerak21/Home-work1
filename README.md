@@ -2,10 +2,10 @@
 ## Project Description:
 This project intends to improve 
 <b>   a) </b> accessability to previous developers' codes and 
- <b>  b) <b> refactor the code for a logical flow. 
+ <b>  b) </b> refactor the code for a logical flow. 
 I improved the semantic text to 
-<b>   a) <b> allow other project developers to better understand the placement of the project-related elements and 
-<b>   b) <b> to follow a rational flow.  
+<b>   a) </b> allow other project developers to better understand the placement of the project-related elements and 
+<b>   b) </b> to follow a rational flow.  
 This was designed using HTML, CSS and Github.
 ## How to Install and Run the Project:
 This project can be pull from the repository via the git hub website by following the link:
