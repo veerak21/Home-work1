@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Code Refactor Starter Code
 # Project Title: HTML CSS & Git Challenge: Code Refactor
 ## Project Description:
 This project was to improve the accessability to the code created by the previous developers also refactoring the code to represent a logical flow. I did this by improving the semantic text allowing other developers who undertake the project to better understand where crucial elements relating to the project are placed and a making it easy for other developers to follow a rational flow.
@@ -14,5 +12,3 @@ improving structure to any given website.
 ## Credits:
 Many thanks to the following developer for providing all the relevant rescources.
 https://github.com/Xandromus
-=======
->>>>>>> d9fe8a2b5f1d9771e61c92d5ed8a12ebc86e5cc8
