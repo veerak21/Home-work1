@@ -1,4 +1,4 @@
-# Project Title: HTML CSS and Git Challenge: Code Refactoring
+# Code Refactoring
 ## Project Description:
 This project intends to improve 
 <b>   a) </b> accessability to previous developers' codes and 
