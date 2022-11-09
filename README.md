@@ -15,4 +15,4 @@ This project can be used by the new developers to understand the fundamnetal val
 ## Credits:
 Thanks to Xander Rapstine (https://github.com/Xandromus) for providing the rescources for this project.
 ## Website image:
-![screenshot-of-applicaton](./assets/images/horiseon-screenshot.png)
+![screenshot-of-applicaton](.assets\images\horiseon-screenshot.png)
