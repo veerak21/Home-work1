@@ -1,4 +1,4 @@
-# Code Refactoring
+# Urban-Octo-Telegram
 ## Project Description:
 This project intends to improve 
 <b>   a) </b> accessability to previous developers' codes and 
@@ -14,3 +14,5 @@ https://github.com/veerak21/code-refactoring and can be cloned to your personal 
 This project can be used by the new developers to understand the fundamnetal values in the semantic HTML elements and logical flow, there-by increasing productivity and improving the structure of the websites.
 ## Credits:
 Thanks to Xander Rapstine (https://github.com/Xandromus) for providing the rescources for this project.
+## Website image:
+![screenshot-of-applicaton](./assets/images/horiseon-screenshot.png)
