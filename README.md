@@ -17,4 +17,6 @@ This project can be used by the new developers to understand the fundamnetal val
 Thanks to Xander Rapstine (https://github.com/Xandromus) for providing the rescources for this project.
 ## Website URL and imange:
 https://veerak21.github.io/code-refactoring/
+
+
 ![screenshot](./assets/images/image.jpg)
